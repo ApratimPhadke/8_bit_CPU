@@ -246,16 +246,20 @@ Address | Instruction | Description
 ## Gallery
 
 ### Full CPU Architecture
-![Full CPU](path-to-image-2)
-*Complete CPU showing all components and interconnections*
+![Full CPU]
+<img width="600" height="767" alt="image" src="https://github.com/user-attachments/assets/2564239d-3345-4e01-b984-966bcc63915b" />
 
 ### Program Counter Detail
-![Program Counter](path-to-image-3)
-*8-bit program counter with increment logic using cascaded full adders*
+![Program Counter]
+<img width="1440" height="900" alt="Screenshot from 2026-01-21 20-36-04" src="https://github.com/user-attachments/assets/fd84787b-b0f6-4584-95ab-9dcbca84bb98" />
+<img width="1440" height="900" alt="Screenshot from 2026-01-21 20-36-19" src="https://github.com/user-attachments/assets/04d2c594-5ae5-4188-a799-7c1afde8385e" />
+
+
 
 ### Instruction Register
-![Instruction Register](path-to-image-5)
-*8-bit register built from D flip-flops for holding current instruction*
+![Instruction Register]
+<img width="1440" height="900" alt="Screenshot from 2026-01-21 20-36-36" src="https://github.com/user-attachments/assets/e683e3ce-b310-4aed-b26f-6efcbcc11819" />
+
 
 ### Temporary Register
 ![Tmp Register](path-to-image-6)
