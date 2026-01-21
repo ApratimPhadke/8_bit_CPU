@@ -248,6 +248,9 @@ Address | Instruction | Description
 ### Full CPU Architecture
 
 <img width="600" height="767" alt="image" src="https://github.com/user-attachments/assets/2564239d-3345-4e01-b984-966bcc63915b" />
+<img width="1440" height="900" alt="Screenshot from 2026-01-21 20-39-14" src="https://github.com/user-attachments/assets/25ae7d93-e725-493d-aedc-5e6004c15a34" />
+<img width="1440" height="900" alt="Screenshot from 2026-01-21 20-35-33" src="https://github.com/user-attachments/assets/9b528224-5813-4115-8159-4cf186c9ea4c" />
+
 
 ### Program Counter Detail
 
@@ -257,41 +260,40 @@ Address | Instruction | Description
 
 
 ### Instruction Register
-![Instruction Register]
+
 <img width="1440" height="900" alt="Screenshot from 2026-01-21 20-36-36" src="https://github.com/user-attachments/assets/e683e3ce-b310-4aed-b26f-6efcbcc11819" />
 
 
 ### Temporary Register
-![Tmp Register](path-to-image-6)
-*General-purpose 8-bit register for temporary value storage*
+<img width="1440" height="900" alt="Screenshot from 2026-01-21 20-36-52" src="https://github.com/user-attachments/assets/483581f7-c3d3-4166-a4a3-ac146c982f48" />
 
 ### Control Unit
-![Control Unit](path-to-image-7)
-*Control unit showing instruction decoding and signal generation logic*
+<img width="1440" height="900" alt="Screenshot from 2026-01-21 20-37-13" src="https://github.com/user-attachments/assets/7789c1ca-83e6-4ef5-a97c-d11e10969251" />
+
 
 ### ALU Architecture
-![ALU](path-to-image-8)
-*Arithmetic Logic Unit with full adders, XOR gates, and operation selection*
+<img width="1440" height="900" alt="Screenshot from 2026-01-21 20-37-29" src="https://github.com/user-attachments/assets/0a7d9b62-3481-434a-9e16-3c1b41e95cf2" />
+
 
 ### Memory System
-![256x8 ROM](path-to-image-9)
-*Complete 256-byte memory organized in a grid structure*
+<img width="1440" height="900" alt="Screenshot from 2026-01-21 20-37-49" src="https://github.com/user-attachments/assets/94f4b5e6-22b7-4a3a-ba9a-5f46862ade0c" />
+
 
 ### Memory Cell Detail
-![16x8 Memory](path-to-image-10)
-*Detail of 16x8 memory block showing addressing logic*
+<img width="1440" height="900" alt="Screenshot from 2026-01-21 20-38-02" src="https://github.com/user-attachments/assets/f6458530-1019-472f-a894-7a7eef13288f" />
+
 
 ### Individual Memory Bit
-![8-bit Memory](path-to-image-11)
-*Single 8-bit memory word built from flip-flops*
+<img width="1440" height="900" alt="Screenshot from 2026-01-21 20-38-18" src="https://github.com/user-attachments/assets/167970bb-cfbb-41e0-866e-6254054e203e" />
+
 
 ### Memory Address Register
-![MAR](path-to-image-12)
-*MAR connecting the bus to memory addressing*
+<img width="1440" height="900" alt="Screenshot from 2026-01-21 20-38-35" src="https://github.com/user-attachments/assets/d1fc8a19-d8be-4448-b032-fa45a8ba2d46" />
+
 
 ### Accumulator
-![Accumulator](path-to-image-13)
-*Primary accumulator register for ALU operations*
+<img width="1440" height="900" alt="Screenshot from 2026-01-21 20-38-49" src="https://github.com/user-attachments/assets/2b60e3ab-d662-4d6d-8c5f-acc8bbc749fe" />
+
 
 ## Tools Used
 
@@ -344,9 +346,7 @@ This project provided hands-on experience with:
 - Various computer architecture textbooks and resources
 - The classic 8-bit computer designs that inspired this project
 
-## License
 
-This project is open source and available for educational purposes.
 
 ---
 
